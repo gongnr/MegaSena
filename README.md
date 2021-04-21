@@ -1,2 +1,2 @@
 # MegaSena
-Creates a list of 6 numbers to bet in Lottery (Brazilian Mega Sena)
+Creates a list of 6 numbers to bet in Lottery (Brazilian Mega Sena) using Python
